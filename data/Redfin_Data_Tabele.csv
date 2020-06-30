@@ -1,0 +1,201 @@
+house_price,zip_code,house_address,beds,baths,house_link
+879000,91206,"2620 E Glenoaks Blvd, Glendale, CA 91206",3,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Glendale/2620-E-Glenoaks-Blvd-91206/home/7171056
+599000,90604,"11037 Chadsey Dr, Whittier, CA 90604",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Whittier/11037-Chadsey-Dr-90604/home/7818623
+799990,90808,"5358 E Conant St, Long Beach, CA 90808",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Long-Beach/5358-E-Conant-St-90808/home/7564508
+499900,90660,"4733 Fir St, Pico Rivera, CA 90660",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Pico-Rivera/4733-Fir-St-90660/home/7448634
+379900,90717,"25925 Oak St #112, Lomita, CA 90717",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Lomita/25925-Oak-St-90717/unit-112/home/7731910
+849000,90278,"2716 182nd St, Redondo Beach, CA 90278",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Redondo-Beach/2716-182nd-St-90278/home/6574523
+664900,90804,"1515 Temple Ave, Long Beach, CA 90804",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Long-Beach/1515-Temple-Ave-90804/home/7605308
+849998,91748,"17507 Rio Ct, Rowland Heights, CA 91748",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Rowland-Heights/17507-Rio-Ct-91748/home/7865178
+399998,91766,"9 Wildflower Pl, Pomona, CA 91766",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Pomona/9-Wildflower-Pl-91766/home/8049737
+539988,91745,"15733 Tetley St Unit 1H, Hacienda Hts, CA 91745",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Hacienda-Heights/15733-Tetley-St-91745/unit-1H/home/7841601
+478000,91405,"15050 Sherman Way #233, Van Nuys, CA 91405",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Van-Nuys/15050-Sherman-Way-91405/unit-233/home/4460668
+269000,93550,"2320 Gregory Ave, Palmdale, CA 93550",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Palmdale/2320-Gregory-Ave-93550/home/6151517
+449000,90731,"920 N Grand Ave, San Pedro, CA 90731",2,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/San-Pedro/920-N-Grand-Ave-90731/home/7687981
+589000,90732,"2113 Stonewood Ct #76, San Pedro, CA 90732",2,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/San-Pedro/2113-Stonewood-Ct-90732/unit-76/home/7684180
+699000,91306,"7816 Quartz Ave, Canoga Park, CA 91306",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Canoga-Park/7816-Quartz-Ave-91306/home/3670810
+569000,91402,"8509 Lennox Ave, Panorama City, CA 91402",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Panorama-City/8509-Lennox-Ave-91402/home/5633306
+499000,91326,"11427 Tampa Ave #80, Porter Ranch, CA 91326",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Porter-Ranch/11427-Tampa-Ave-91326/unit-80/home/5763337
+325000,91355,"24123 Del Monte Dr #97, Valencia, CA 91355",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Santa-Clarita/24123-W-Del-Monte-Dr-91355/unit-97/home/6074750
+1499000,91436,"16765 Otsego St, Encino, CA 91436",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Encino/16765-Otsego-St-91436/home/4786192
+1145000,90045,"8416 Campion Dr, Los Angeles, CA 90045",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-1/CA/Los-Angeles/8416-Campion-Dr-90045/home/6620335
+719900,91307,"6574 Sausalito Ave, West Hills, CA 91307",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/West-Hills/6574-Sausalito-Ave-91307/home/3212067
+849000,90042,"617 San Pascual Ave, Highland Park, CA 90042",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Los-Angeles/617-San-Pascual-Ave-90042/home/7187080
+775000,90815,"2440 Marber Ave, Long Beach, CA 90815",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Long-Beach/2440-Marber-Ave-90815/home/7581463
+845000,90049,"11949 Goshen Ave #102, Los Angeles, CA 90049",2,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Los-Angeles/11949-Goshen-Ave-90049/unit-102/home/6761478
+1249998,90065,"4426 San Andreas Ave, Los Angeles, CA 90065",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Los-Angeles/4426-San-Andreas-Ave-90065/home/7078233
+519000,90066,"5000 S Centinela Ave #142, Los Angeles, CA 90066",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Los-Angeles/5000-S-Centinela-Ave-90066/unit-142/home/6731413
+2129000,90254,"836 Bard St, Hermosa Beach, CA 90254",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Hermosa-Beach/836-Bard-St-90254/home/6717141
+898000,91789,"20135 Donway Dr, Walnut, CA 91789",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Walnut/20135-Donway-Dr-91789/home/8088170
+789000,91381,"25921 Wordsworth Ln, Stevenson Ranch, CA 91381",4,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Stevenson-Ranch/25921-Wordsworth-Ln-91381/home/5997859
+649000,90401,"1319 11th St #5, Santa Monica, CA 90401",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Santa-Monica/1319-11th-St-90401/unit-5/home/6774034
+649000,91343,"10100 Sophia Ave, North Hills, CA 91343",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/North-Hills/10100-Sophia-Ave-91343/home/5725385
+949999,91030,"1320 Gates Pl, South Pasadena, CA 91030",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/South-Pasadena/1320-Gates-Pl-91030/home/7004804
+479000,93536,"6217 Shadow Hills Dr, Quartz Hill, CA 93536",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Quartz-Hill/6217-Shadow-Hill-Dr-93536/home/6359944
+699000,91335,"19016 Bessemer St, Tarzana, CA 91335",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Tarzana/19016-Bessemer-St-91335/home/3865942
+999000,90260,"15010 Eastwood Ave, Lawndale, CA 90260",8,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Lawndale/15010-Eastwood-Ave-90260/home/6562566
+1999000,91311,"10925 Owensmouth Ave, Chatsworth, CA 91311",5,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Chatsworth/10925-Owensmouth-Ave-91311/home/5794153
+689000,91505,"3515 W Alameda Ave, Burbank, CA 91505",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Burbank/3515-W-Alameda-Ave-91505/home/5392661
+1499000,90019,"5063 Edgewood Pl, Los Angeles, CA 90019",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Los-Angeles/5063-Edgewood-Pl-90019/home/6912462
+539900,90605,"13968 Cerecita Dr, Whittier, CA 90605",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Whittier/13968-Cerecita-Dr-90605/home/7820015
+734990,90814,"2916 E Colorado St, Long Beach, CA 90814",2,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-2/CA/Long-Beach/2916-E-Colorado-St-90814/home/7603085
+872000,91801,"301 S Cordova St, Alhambra, CA 91801",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Alhambra/301-S-Cordova-St-91801/home/7021634
+975000,90630,"4252 Emerald Cir, Cypress, CA 90630",6,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Cypress/4252-Emerald-Cir-90630/home/4015441
+499000,91024,"284 Vista Circle Dr, Sierra Madre, CA 91024",1,0.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Sierra-Madre/284-Vista-Cir-Dr-91024/home/7225677
+1139000,91750,"2335 Daybreak Dr, La Verne, CA 91750",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/La-Verne/2335-Daybreak-Dr-91750/home/8044202
+1299000,90403,"848 Lincoln Blvd Unit A, Santa Monica, CA 90403",2,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Santa-Monica/848-Lincoln-Blvd-90403/unit-A/home/6780004
+985000,90803,"274 Roswell Ave, Long Beach, CA 90803",3,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Long-Beach/274-Roswell-Ave-90803/home/7600777
+2264000,90291,"422 Sherman Canal, Venice, CA 90291",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Venice/422-Sherman-Canal-90291/home/6734686
+723990,90027,"4411 Los Feliz Blvd #605, Los Angeles, CA 90027",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/4411-Los-Feliz-Blvd-90027/unit-605/home/7133042
+5869000,90265,"5620 Villa Mar Pl, Malibu, CA 90265",5,5.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Malibu/Unknown-Unknown/home/22698554
+899000,91364,"4647 Ensenada Dr, Woodland Hills, CA 91364",5,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Woodland-Hills/4647-Ensenada-Dr-91364/home/4204598
+305000,90650,"14011 Bayside Dr #12, Norwalk, CA 90650",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Norwalk/14011-Bayside-Dr-90650/unit-12/home/7777965
+460000,90813,"873 Magnolia Ave #7, Long Beach, CA 90813",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Long-Beach/873-Magnolia-Ave-90813/unit-7/home/7615961
+589000,91605,"7243 Camellia Ave, North Hollywood, CA 91605",3,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/North-Hollywood/7243-Camellia-Ave-91605/home/5032419
+4199000,90077,"2586 Casiano Rd, Los Angeles, CA 90077",6,7,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/2586-Casiano-Rd-90077/home/6831713
+200000,90065,"4291 Scandia Way, Los Angeles, CA 90065",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/4291-Scandia-Way-90065/home/23151322
+2600000,90275,"28500 E Palos Verdes Dr, Rancho Palos Verdes, CA 90275",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Rancho-Palos-Verdes/28500-Palos-Verdes-Dr-E-90275/home/7732651
+1824999,91001,"2954 Zane Grey, Altadena, CA 91001",5,5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Altadena/2954-Zane-Grey-Ter-91001/home/7259675
+699999,91326,"11505 Amalfi Way, Northridge, CA 91326",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Northridge/11505-Amalfi-Way-91326/home/51576125
+469000,93536,"2043 Balmont St, Lancaster, CA 93536",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Lancaster/2043-Balmont-St-93536/home/8140644
+1749000,90019,"4546 St Elmo Dr, Los Angeles, CA 90019",8,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/4546-St-Elmo-Dr-90019/home/6905933
+620000,91741,"413 S Glendora Ave, Glendora, CA 91741",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Glendora/413-S-Glendora-Ave-91741/home/51587557
+430000,91381,"25935 Stafford Canyon Rd Unit F, Stevenson Ranch, CA 91381",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Stevenson-Ranch/25935-Stafford-Canyon-Rd-91381/unit-F/home/5996392
+389900,90814,"564 N Bellflower Blvd #104, Long Beach, CA 90814",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Long-Beach/564-N-Bellflower-Blvd-90814/unit-104/home/7595246
+1460000,91107,"2437 San Pasqual St, Pasadena, CA 91107",3,3.25,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Pasadena/2437-San-Pasqual-St-91107/home/7013833
+1149000,91504,"1910 Bonita Ave, Burbank, CA 91504",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Burbank/1910-Bonita-Ave-91504/home/5364807
+474900,90810,"3595 Santa Fe Ave #151, Long Beach, CA 90810",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Long-Beach/3595-Santa-Fe-Ave-90810/unit-151/home/22954358
+465000,91406,"17510 Sherman Way #111, Lake Balboa, CA 91406",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Van-Nuys/17510-Sherman-Way-91406/unit-111/home/4534880
+575000,90712,"5928 Premiere Ave, Lakewood, CA 90712",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Lakewood/5928-Premiere-Ave-90712/home/7550626
+415888,91744,"312 Shade Ln, La Puente, CA 91744",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/La-Puente/312-Shade-Ln-91744/home/7857524
+449000,91801,"210 N Monterey St #202, Alhambra, CA 91801",1,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Alhambra/210-N-Monterey-St-91801/unit-202/home/102235909
+607000,91354,"26873 Cuatro Milpas St, Valencia, CA 91354",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Santa-Clarita/26873-Cuatro-Milpas-St-91354/home/5953107
+739000,90017,"889 Francisco St #1010, Los Angeles, CA 90017",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Los-Angeles/889-Francisco-St-90017/unit-1010/home/143519346
+439000,91401,"6525 Woodman Ave #30, Valley Glen, CA 91401",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Van-Nuys/6525-Woodman-Ave-91401/unit-30/home/12286449
+615000,90806,"2518 Earl Ave, Long Beach, CA 90806",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Long-Beach/2518-Earl-Ave-90806/home/7571631
+1399000,91206,"2133 Erin Way, Glendale, CA 91206",3,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Glendale/2133-Erin-Way-91206/home/7167591
+575000,90043,"5317 2nd Ave, Los Angeles, CA 90043",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Los-Angeles/5317-2nd-Ave-90043/home/6863823
+1525000,90056,"6216 S Corning Ave, Los Angeles, CA 90056",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Los-Angeles/6216-S-Corning-Ave-90056/home/6595783
+1298000,91607,"12243 45 Collins St, Valley Village, CA 91607",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/North-Hollywood/12243-Collins-St-91607/home/5167728
+899000,90016,"2135 S Palm Grove Ave, Los Angeles, CA 90016",5,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Los-Angeles/2135-S-Palm-Grove-Ave-90016/home/6899574
+409000,93551,"4532 Paseo Hermoso, Palmdale, CA 93551",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-4/CA/Palmdale/4532-Pso-Hermoso-93551/home/6099405
+1199900,90703,"13534 Darvalle St, Cerritos, CA 90703",5,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Cerritos/13534-Darvalle-St-90703/home/7467276
+930000,90004,"611 N Bronson Ave #9, Los Angeles, CA 90004",1,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/611-N-Bronson-Ave-90004/unit-9/home/17227519
+699000,90057,"422 S Benton Way, Los Angeles, CA 90057",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/422-S-Benton-Way-90057/home/6935216
+798000,90601,"6348 Pickering Ave, Whittier, CA 90601",6,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Whittier/6348-Pickering-Ave-90601/home/7810576
+695000,91352,"8327 Valecrest Dr, Sun Valley, CA 91352",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Sun-Valley/8327-Valecrest-Dr-91352/home/5270529
+1849000,90045,"6372 W 82nd St, Los Angeles, CA 90045",5,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/6372-W-82nd-St-90045/home/6611959
+425000,90278,"2001 Artesia Blvd #202, Redondo Beach, CA 90278",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Redondo-Beach/2001-Artesia-Blvd-90278/unit-202/home/21918160
+399000,91722,"675 N Lark Ellen Ave, Covina, CA 91722",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Covina/675-N-Lark-Ellen-Ave-91722/home/7930415
+612000,90005,"620 S Gramercy Pl #302, Los Angeles, CA 90005",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/620-S-Gramercy-Pl-90005/unit-302/home/8145750
+799999,91344,"11432 Gerald Ave, Granada Hills, CA 91344",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Granada-Hills/11432-Gerald-Ave-91344/home/5732440
+1999000,90275,"31010 Hawksmoor Dr, Rancho Palos Verdes, CA 90275",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Rancho-Palos-Verdes/31010-Hawksmoor-Dr-90275/home/7734056
+724900,90065,"3801 Eagle Rock Blvd #3, Los Angeles, CA 90065",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/3801-Eagle-Rock-Blvd-90065/unit-3/home/110090244
+4195000,91011,"837 Greenridge Dr, La Canada Flintridge, CA 91011",5,4.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/La-Canada-Flintridge/837-Greenridge-Dr-91011/home/7249019
+2800000,91754,"1585 Sombrero Dr, Monterey Park, CA 91754",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Monterey-Park/1585-Sombrero-Dr-91754/home/6970379
+1420000,91302,"4538 Cielo Cir, Calabasas, CA 91302",4,3.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Calabasas/4538-Cielo-Cir-91302/home/12286097
+599000,91732,"3494 Whistler Ave, El Monte, CA 91732",4,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/El-Monte/3494-Whistler-Ave-91732/home/7997323
+339000,90057,"256 S La Fayette Park Pl #304, Los Angeles, CA 90057",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/256-S-Lafayette-Park-Pl-90057/unit-304/home/12404687
+859000,90017,"801 S Grand Ave #1702, Los Angeles, CA 90017",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/801-S-Grand-Ave-90017/unit-1702/home/8179714
+1680000,90230,"4709 Lindblade Dr, Culver City, CA 90230",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Culver-City/4709-Lindblade-Dr-90230/home/6730878
+995000,90024,"10608 Wilkins Ave #303, Los Angeles, CA 90024",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/10608-Wilkins-Ave-90024/unit-303/home/6805467
+5675000,90274,"2828 Via Neve, Palos Verdes Estates, CA 90274",5,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Palos-Verdes-Estates/2828-Via-Neve-90274/home/7725258
+2195000,91302,"24474 Mulholland Hwy, Calabasas, CA 91302",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Calabasas/24474-Mulholland-Hwy-91302/home/6853701
+849000,90732,"2711 S Anchovy Ave, San Pedro, CA 90732",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/San-Pedro/2711-S-Anchovy-Ave-90732/home/7737865
+449000,90803,"5959 E Naples #111, Long Beach, CA 90803",1,0.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Long-Beach/5959-E-Naples-Plz-90803/unit-111/home/7592440
+415000,90280,"9814 Karmont Ave, South Gate, CA 90280",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/South-Gate/9814-Karmont-Ave-90280/home/7389993
+289900,90601,"4140 Workman Mill Rd #137, Whittier, CA 90601",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Whittier/4140-Workman-Mill-Rd-90601/unit-137/home/7806267
+29900,CA,"4 West K4, Lancaster, CA",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Lancaster/4-4th-St-W-Unknown/home/172333077
+2400000,91301,"29055 Wagon Rd, Agoura Hills, CA 91301",7,7,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Agoura-Hills/29055-Wagon-Rd-91301/home/3461884
+1225000,90064,"2551 Granville Ave, Los Angeles, CA 90064",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Los-Angeles/2551-Granville-Ave-90064/home/6754576
+1499000,90291,"1622 Glyndon Ave, Venice, CA 90291",2,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Venice/1622-Glyndon-Ave-90291/home/6745678
+639900,90808,"6156 E Huntdale St, Long Beach, CA 90808",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Long-Beach/6156-E-Huntdale-St-90808/home/7563550
+411000,90280,"10601 San Jose Ave, South Gate, CA 90280",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/South-Gate/10601-San-Jose-Ave-90280/home/7375464
+225000,93551,"Godde Hill Rd Wic Vic Rd, Palmdale, CA 93551",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Palmdale/Godde-Hill-Rd-93551/home/113163568
+650000,90293,"8701 Falmouth Ave #206, Playa Del Rey, CA 90293",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Playa-Del-Rey/8701-Falmouth-Ave-90293/unit-206/home/6629867
+567500,91354,"28723 Jardineras Dr, Valencia, CA 91354",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Valencia/28723-Jardineras-Dr-91354/home/167293756
+584900,90670,"11649 Garetal St, Santa Fe Springs, CA 90670",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Santa-Fe-Springs/11649-Garetal-St-90670/home/7753721
+390000,90059,"10715 S Central Ave, Los Angeles, CA 90059",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Los-Angeles/10715-S-Central-Ave-90059/home/170232741
+615000,90047,"7614 La Salle Ave, Los Angeles, CA 90047",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Los-Angeles/7614-La-Salle-Ave-90047/home/7281990
+67000,93534,"48303 N 20th Street West #64, Lancaster, CA 93534",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Lancaster/48303-20th-St-W-93534/unit-64/home/170441476
+830000,90640,"1432 Appian Way, Montebello, CA 90640",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Montebello/1432-Appian-Way-90640/home/6997548
+1659000,91436,"16963 Cotter Pl, Encino, CA 91436",4,3.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Encino/16963-Cotter-Pl-91436/home/4947008
+849000,91016,"425 Norumbega Dr, Monrovia, CA 91016",3,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Monrovia/425-Norumbega-Dr-91016/home/7971535
+2398000,91024,"700 Oak Crest Dr, Sierra Madre, CA 91024",5,5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Sierra-Madre/700-Oak-Crest-Dr-91024/home/7224693
+570000,91792,"1822 Bauer Dr, West Covina, CA 91792",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/West-Covina/1822-Bauer-Dr-91792/home/8082984
+2999000,91103,"1395 El Mirador Dr, Pasadena, CA 91103",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Pasadena/1395-El-Mirador-Dr-91103/home/7183233
+349000,CA,"9511 Laurel, Los Angeles, CA",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/9511-Laurel-St-90002/home/83002282
+860000,90025,"1825 Selby Ave #201, Los Angeles, CA 90025",2,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/1825-Selby-Ave-90025/unit-201/home/12290122
+1650000,90401,"1755 Ocean Ave #505, Santa Monica, CA 90401",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Santa-Monica/1755-Ocean-Ave-90401/unit-505/home/55580455
+1098888,91208,"885 Calle La Primavera, Glendale, CA 91208",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Glendale/885-Calle-La-Primavera-91208/home/7169976
+629000,90230,"5650 Sumner Way #103, Culver City, CA 90230",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Culver-City/5650-N-Sumner-Way-90230/unit-103/home/6649700
+960000,90260,"4235 W 170th St, Lawndale, CA 90260",6,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Lawndale/4235-W-170th-St-90260/home/6558137
+679900,91350,"20508 Charlie Ct, Saugus, CA 91350",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Santa-Clarita/20508-Charlie-Ct-91350/home/51585743
+1850000,90077,"10498 Selkirk Ln, Los Angeles, CA 90077",3,2.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/10498-Selkirk-Ln-90077/home/6832209
+1595000,90046,"1245 N Ogden Dr, West Hollywood, CA 90046",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/West-Hollywood/1245-N-Ogden-Dr-90046/home/8106690
+699000,91765,"23605 Maple Springs Dr, Diamond Bar, CA 91765",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Diamond-Bar/23605-Maple-Springs-Dr-91765/home/7873818
+1299000,91367,"5963 Vista De La Luz, Woodland Hills, CA 91367",5,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Woodland-Hills/5963-Vista-De-La-Luz-91367/home/3153790
+920000,90019,"5704 Airdrome St, Los Angeles, CA 90019",2,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/5704-Airdrome-St-90019/home/6904075
+2199000,90212,"277 S Spalding Dr #201, Beverly Hills, CA 90212",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Beverly-Hills/277-S-Spalding-Dr-90212/unit-201/home/6807582
+925000,91601,"11435 Cumpston St, North Hollywood, CA 91601",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/North-Hollywood/11435-Cumpston-St-91601/home/5208758
+419000,90806,"111 W Spring St Unit E, Long Beach, CA 90806",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Long-Beach/111-W-Spring-St-90806/unit-E/home/7571326
+805000,90815,"5111 E 27th St, Long Beach, CA 90815",4,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Long-Beach/5111-E-27th-St-90815/home/7578905
+6500,90024,"456 Warner Ave, Los Angeles, CA 90024",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/456-Warner-Ave-90024/home/6826335
+499000,90706,"17670 Sarentina Ct, Bellflower, CA 90706",2,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Bellflower/17670-Sarentina-Ct-90706/home/17138991
+620000,91724,"342 N Bender Ave, Covina, CA 91724",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Covina/342-N-Bender-Ave-91724/home/7933876
+9775000,90069,"1731 Rising Glen Rd, Los Angeles, CA 90069",4,4.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/1731-Rising-Glen-Rd-90069/home/7122203
+1100000,91401,"5922 Ranchito Ave, Valley Glen, CA 91401",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Van-Nuys/5922-Ranchito-Ave-91401/home/4702960
+465000,91321,"25226 Vermont Dr, Newhall, CA 91321",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Santa-Clarita/25226-Vermont-Dr-91321/home/6003377
+719500,91335,"6416 Lindley Ave, Reseda, CA 91335",4,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Reseda/6416-Lindley-Ave-91335/home/3825067
+359000,91355,"24141 Del Monte Dr #250, Valencia, CA 91355",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Santa-Clarita/24141-W-Del-Monte-Dr-91355/unit-250/home/6075287
+749900,90026,"258 N Benton Way, Los Angeles, CA 90026",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/258-N-Benton-Way-90026/home/6935879
+775000,91765,"3637 Crooked Creek Dr, Diamond Bar, CA 91765",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Diamond-Bar/3637-Crooked-Creek-Dr-91765/home/8064904
+285000,93552,"36813 Doheny Ln, Lancaster, CA 93552",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Palmdale/36813-Doheny-Ln-93552/home/6206329
+869000,91042,"6564 Elmhurst Dr, Tujunga, CA 91042",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Tujunga/6564-Elmhurst-Dr-91042/home/5546161
+20000,93536,"Ave E-8, Lancaster, CA 93536",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lancaster/Ave-E-8-93536/home/142718981
+549900,90260,"14800 Mansel Ave, Lawndale, CA 90260",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lawndale/14800-Mansel-Ave-90260/home/6565012
+930000,90501,"2314 W 236th Pl, Torrance, CA 90501",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Torrance/2314-W-236th-Pl-90501/home/7660261
+2799000,90035,"8546 Cashio St, Los Angeles, CA 90035",10,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/8546-Cashio-St-90035/home/6787997
+10250000,90292,"4701 Ocean Front Walk St, Marina Del Rey, CA 90292",6,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Marina-Del-Rey/4701-Ocean-Front-Walk-90292/home/144766649
+1375000,90260,"4723 W 173rd St, Lawndale, CA 90260",8,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lawndale/4723-W-173rd-St-90260/home/6570612
+1225000,90045,"8121 Holy Cross Pl, Westchester, CA 90045",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/8121-Holy-Cross-Pl-90045/home/6619732
+795000,90260,"4741 W 173rd St, Lawndale, CA 90260",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Lawndale/4741-W-173rd-St-90260/home/6570629
+1990000,91107,"308 Virginia Ave, Pasadena, CA 91107",6,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Pasadena/308-Virginia-Ave-91107/home/7213084
+428000,91789,"855 Silver Fir Rd, Diamond Bar, CA 91789",3,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Walnut/855-Silver-Fir-Rd-91789/home/8067589
+1399950,91356,"5818 Calvin Ave, Tarzana, CA 91356",6,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Tarzana/5818-Calvin-Ave-91356/home/4042430
+997000,90278,"2013 Speyer Ln Unit B, Redondo Beach, CA 90278",4,2.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Redondo-Beach/2013-Speyer-Ln-90278/unit-B/home/6698164
+980000,90042,"1025 N Avenue 54, Los Angeles, CA 90042",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Los-Angeles/1025-N-Ave-54-90042/home/7082589
+1139000,90042,"5212 Buchanan St, Highland Park, CA 90042",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Los-Angeles/5212-Buchanan-St-90042/home/7082632
+989000,91367,"5622 Royer Ave, Woodland Hills, CA 91367",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Woodland-Hills/5622-Royer-Ave-91367/home/3238081
+1399000,91423,"13945 Addison St, Sherman Oaks, CA 91423",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Sherman-Oaks/13945-Addison-St-91423/home/4849324
+744900,90713,"4903 Palo Verde Ave, Lakewood, CA 90713",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Lakewood/4903-Palo-Verde-Ave-90713/home/7555834
+650000,90723,"15316 Georgia Ave, Paramount, CA 90723",6,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Paramount/15316-Georgia-Ave-90723/home/7408844
+639000,91010,"2523 California Ave, Duarte, CA 91010",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Duarte/2523-S-California-Ave-91010/home/7978237
+36000,91040,"10711 Sherman rove Ave #22, Sunland, CA 91040",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Shadow-Hills/10711-Sherman-Grove-Ave-91040/unit-22/home/172330533
+1200000,90275,"27012 Woodbrook Rd, Rancho Palos Verdes, CA 90275",4,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Rancho-Palos-Verdes/27012-Woodbrook-Rd-90275/home/7743425
+365000,91355,"23731 Del Monte Dr #182, Santa Clarita, CA 91355",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Santa-Clarita/23731-W-Del-Monte-Dr-91355/unit-182/home/6071494
+629000,91755,"528 Everett Ave, Monterey Park, CA 91755",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Monterey-Park/528-Everett-Ave-91755/home/6974303
+479000,91405,"13951 Sherman Way #207, Van Nuys, CA 91405",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Van-Nuys/13951-Sherman-Way-91405/unit-207/home/17138986
+779999,91214,"3726 Santa Carlotta St St, La Crescenta, CA 91214",3,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Glendale/3726-Santa-Carlotta-St-91214/home/7138709
+485000,90242,"13409 Klondike Ave, Downey, CA 90242",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/Downey/13409-Klondike-Ave-90242/home/7407189
+575000,90638,"14544 Jalisco Rd, La Mirada, CA 90638",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-9/CA/La-Mirada/14544-Jalisco-Rd-90638/home/7792678
+405000,93550,"38711 E 37th St E, Palmdale, CA 93550",5,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Palmdale/38711-37th-St-E-93550/home/8110464
+360000,90640,"1630 Neil Armstrong St #217, Montebello, CA 90640",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Montebello/1630-Neil-Armstrong-St-90640/unit-217/home/6985815
+289000,90813,"901 Linden Ave #23, Long Beach, CA 90813",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Long-Beach/901-Linden-Ave-90813/unit-23/home/7616766
+599000,90247,"1249 W 139th St #105, Gardena, CA 90247",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Gardena/1249-139th-St-90247/unit-105/home/79039320
+575000,90241,"9123 Via Amorita, Downey, CA 90241",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Downey/9123-Via-Amorita-90241/home/7416112
+440000,90810,"3516 Denver Ave, Long Beach, CA 90810",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Long-Beach/3516-Denver-Ave-90810/home/7626511
+1191780,91780,"6427 Golden West Ave, Temple City, CA 91780",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Temple-City/6427-W-Golden-Ave-91780/home/7045320
+575000,91789,"20767 E Crest Ln Unit B, Diamond Bar, CA 91789",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Walnut/20767-E-Crest-Ln-91789/unit-B/home/8089435
+550000,91791,"2003 E GARVEY Ave N, West Covina, CA 91791",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/West-Covina/2003-E-Garvey-Ave-N-91791/home/8140071
+479950,90002,"1525 E 99th, Los Angeles, CA 90002",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Los-Angeles/1525-E-99th-St-90002/home/172330429
+560000,90810,"1805 W Lincoln St, Long Beach, CA 90810",3,2.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Long-Beach/1805-W-Lincoln-St-90810/home/7629970
+310000,91706,"4160 La Rica Ave #5, Baldwin Park, CA 91706",2,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Baldwin-Park/4160-La-Rica-Ave-91706/unit-5/home/7982814
+1100000,90041,"5208 Loleta Ave, Eagle Rock, CA 90041",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Los-Angeles/5208-Loleta-Ave-90041/home/7180434
+479950,90002,"1523 E 99th St, Los Angeles, CA 90002",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Los-Angeles/1523-E-99th-St-90002/home/7301105
+1089000,91001,"2120 Roosevelt Ave, Altadena, CA 91001",3,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Altadena/2120-N-Roosevelt-Ave-91001/home/7265920
+749900,91307,"23029 Runnymede St, West Hills, CA 91307",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/West-Hills/23029-Runnymede-St-91307/home/3067669
+469000,91355,"25841 Mcbean Pkwy #2, Valencia, CA 91355",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Santa-Clarita/25841-McBean-Pkwy-91355/unit-2/home/6071926
+675000,91354,"23711 Falcon Crest Pl, Valencia, CA 91354",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Santa-Clarita/23711-Falcon-Crest-Pl-91354/home/5946457
+849000,90019,"970 S St Andrews Pl #306, Los Angeles, CA 90019",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Los-Angeles/970-S-St-Andrews-Pl-90019/unit-306/home/28904294
+4250000,90210,"9645 Highridge Dr, Beverly Hills, CA 90210",4,4.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-10/CA/Beverly-Hills/9645-Highridge-Dr-90210/home/6833450
