@@ -53,7 +53,7 @@ house_price,zip_code,house_address,beds,baths,house_link
 460000,90813,"873 Magnolia Ave #7, Long Beach, CA 90813",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Long-Beach/873-Magnolia-Ave-90813/unit-7/home/7615961
 589000,91605,"7243 Camellia Ave, North Hollywood, CA 91605",3,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/North-Hollywood/7243-Camellia-Ave-91605/home/5032419
 4199000,90077,"2586 Casiano Rd, Los Angeles, CA 90077",6,7,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/2586-Casiano-Rd-90077/home/6831713
-200000,90065,"4291 Scandia Way, Los Angeles, CA 90065",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/4291-Scandia-Way-90065/home/23151322
+200000,90065,"4291 Scandia Way, Los Angeles, CA 90065",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Los-Angeles/4291-Scandia-Way-90065/home/23151322
 2600000,90275,"28500 E Palos Verdes Dr, Rancho Palos Verdes, CA 90275",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Rancho-Palos-Verdes/28500-Palos-Verdes-Dr-E-90275/home/7732651
 1824999,91001,"2954 Zane Grey, Altadena, CA 91001",5,5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Altadena/2954-Zane-Grey-Ter-91001/home/7259675
 699999,91326,"11505 Amalfi Way, Northridge, CA 91326",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-3/CA/Northridge/11505-Amalfi-Way-91326/home/51576125
@@ -92,7 +92,7 @@ house_price,zip_code,house_address,beds,baths,house_link
 1999000,90275,"31010 Hawksmoor Dr, Rancho Palos Verdes, CA 90275",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Rancho-Palos-Verdes/31010-Hawksmoor-Dr-90275/home/7734056
 724900,90065,"3801 Eagle Rock Blvd #3, Los Angeles, CA 90065",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/3801-Eagle-Rock-Blvd-90065/unit-3/home/110090244
 4195000,91011,"837 Greenridge Dr, La Canada Flintridge, CA 91011",5,4.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/La-Canada-Flintridge/837-Greenridge-Dr-91011/home/7249019
-2800000,91754,"1585 Sombrero Dr, Monterey Park, CA 91754",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Monterey-Park/1585-Sombrero-Dr-91754/home/6970379
+2800000,91754,"1585 Sombrero Dr, Monterey Park, CA 91754",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Monterey-Park/1585-Sombrero-Dr-91754/home/6970379
 1420000,91302,"4538 Cielo Cir, Calabasas, CA 91302",4,3.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Calabasas/4538-Cielo-Cir-91302/home/12286097
 599000,91732,"3494 Whistler Ave, El Monte, CA 91732",4,2.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/El-Monte/3494-Whistler-Ave-91732/home/7997323
 339000,90057,"256 S La Fayette Park Pl #304, Los Angeles, CA 90057",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-5/CA/Los-Angeles/256-S-Lafayette-Park-Pl-90057/unit-304/home/12404687
@@ -105,13 +105,13 @@ house_price,zip_code,house_address,beds,baths,house_link
 449000,90803,"5959 E Naples #111, Long Beach, CA 90803",1,0.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Long-Beach/5959-E-Naples-Plz-90803/unit-111/home/7592440
 415000,90280,"9814 Karmont Ave, South Gate, CA 90280",2,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/South-Gate/9814-Karmont-Ave-90280/home/7389993
 289900,90601,"4140 Workman Mill Rd #137, Whittier, CA 90601",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Whittier/4140-Workman-Mill-Rd-90601/unit-137/home/7806267
-29900,CA,"4 West K4, Lancaster, CA",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Lancaster/4-4th-St-W-Unknown/home/172333077
+29900,0,"4 West K4, Lancaster, CA",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Lancaster/4-4th-St-W-Unknown/home/172333077
 2400000,91301,"29055 Wagon Rd, Agoura Hills, CA 91301",7,7,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Agoura-Hills/29055-Wagon-Rd-91301/home/3461884
 1225000,90064,"2551 Granville Ave, Los Angeles, CA 90064",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Los-Angeles/2551-Granville-Ave-90064/home/6754576
 1499000,90291,"1622 Glyndon Ave, Venice, CA 90291",2,1.75,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Venice/1622-Glyndon-Ave-90291/home/6745678
 639900,90808,"6156 E Huntdale St, Long Beach, CA 90808",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Long-Beach/6156-E-Huntdale-St-90808/home/7563550
 411000,90280,"10601 San Jose Ave, South Gate, CA 90280",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/South-Gate/10601-San-Jose-Ave-90280/home/7375464
-225000,93551,"Godde Hill Rd Wic Vic Rd, Palmdale, CA 93551",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Palmdale/Godde-Hill-Rd-93551/home/113163568
+225000,93551,"Godde Hill Rd Wic Vic Rd, Palmdale, CA 93551",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Palmdale/Godde-Hill-Rd-93551/home/113163568
 650000,90293,"8701 Falmouth Ave #206, Playa Del Rey, CA 90293",2,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Playa-Del-Rey/8701-Falmouth-Ave-90293/unit-206/home/6629867
 567500,91354,"28723 Jardineras Dr, Valencia, CA 91354",3,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Valencia/28723-Jardineras-Dr-91354/home/167293756
 584900,90670,"11649 Garetal St, Santa Fe Springs, CA 90670",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-6/CA/Santa-Fe-Springs/11649-Garetal-St-90670/home/7753721
@@ -124,7 +124,7 @@ house_price,zip_code,house_address,beds,baths,house_link
 2398000,91024,"700 Oak Crest Dr, Sierra Madre, CA 91024",5,5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Sierra-Madre/700-Oak-Crest-Dr-91024/home/7224693
 570000,91792,"1822 Bauer Dr, West Covina, CA 91792",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/West-Covina/1822-Bauer-Dr-91792/home/8082984
 2999000,91103,"1395 El Mirador Dr, Pasadena, CA 91103",4,4,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Pasadena/1395-El-Mirador-Dr-91103/home/7183233
-349000,CA,"9511 Laurel, Los Angeles, CA",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/9511-Laurel-St-90002/home/83002282
+349000,0,"9511 Laurel, Los Angeles, CA",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/9511-Laurel-St-90002/home/83002282
 860000,90025,"1825 Selby Ave #201, Los Angeles, CA 90025",2,1.5,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Los-Angeles/1825-Selby-Ave-90025/unit-201/home/12290122
 1650000,90401,"1755 Ocean Ave #505, Santa Monica, CA 90401",1,1,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Santa-Monica/1755-Ocean-Ave-90401/unit-505/home/55580455
 1098888,91208,"885 Calle La Primavera, Glendale, CA 91208",4,3,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-7/CA/Glendale/885-Calle-La-Primavera-91208/home/7169976
@@ -152,7 +152,7 @@ house_price,zip_code,house_address,beds,baths,house_link
 775000,91765,"3637 Crooked Creek Dr, Diamond Bar, CA 91765",4,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Diamond-Bar/3637-Crooked-Creek-Dr-91765/home/8064904
 285000,93552,"36813 Doheny Ln, Lancaster, CA 93552",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Palmdale/36813-Doheny-Ln-93552/home/6206329
 869000,91042,"6564 Elmhurst Dr, Tujunga, CA 91042",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Tujunga/6564-Elmhurst-Dr-91042/home/5546161
-20000,93536,"Ave E-8, Lancaster, CA 93536",0,—Baths,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lancaster/Ave-E-8-93536/home/142718981
+20000,93536,"Ave E-8, Lancaster, CA 93536",0,0,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lancaster/Ave-E-8-93536/home/142718981
 549900,90260,"14800 Mansel Ave, Lawndale, CA 90260",2,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Lawndale/14800-Mansel-Ave-90260/home/6565012
 930000,90501,"2314 W 236th Pl, Torrance, CA 90501",3,2,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Torrance/2314-W-236th-Pl-90501/home/7660261
 2799000,90035,"8546 Cashio St, Los Angeles, CA 90035",10,6,https://www.redfin.com/county/321/CA/Los-Angeles-County/Page-8/CA/Los-Angeles/8546-Cashio-St-90035/home/6787997
