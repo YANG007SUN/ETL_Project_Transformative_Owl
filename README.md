@@ -1,5 +1,5 @@
 # ETL Project Transformative Owls
-![Owl](Image/maxresdefault.jpg)
+![Owl](Image/owl.jpg)
 
 ## Background:
 Gather data sources, transform and load into a database.  The data involves housing information from Redfin and crime information for the city of Los Angeles.  We are going to see how they correlate. 
