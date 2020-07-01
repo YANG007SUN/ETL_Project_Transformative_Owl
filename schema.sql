@@ -14,7 +14,7 @@ CREATE TABLE "Redfin_Data_Table" (
 CREATE TABLE "Zip_Code" (
     "zip_code" INTEGER NOT NULL,
     "city" VARCHAR(20)   NOT NULL,
-    "state" INTEGER   NOT NULL,
+    "state" VARCHAR(20)   NOT NULL,
     CONSTRAINT "pk_Zip_Code" PRIMARY KEY (
         "zip_code"
      )
