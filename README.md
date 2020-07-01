@@ -34,7 +34,7 @@ Gather data sources, transform and load into a database.  The data involves hous
         After we scraped the data from Redfin, we separate the dataframe into two small datastes (**Redfin data table** and **Zip_code table**) and export into csv files
 
   * **Crime Data**<br>
-    * Then a function was made to share the city name by the package citipy by using the latitude and longitude.<br>
+    * A function was made to share the city name by the package citipy by using the latitude and longitude.<br>
     * The zipcodes were added through a package called SearchEngine with uszipcode. They were added with a function.<br>
     * The column information was renamed for legibility purposes and to change from the abbreviations.  <br>
     * The time stamp was changed to a date with the datetime package.<br>
