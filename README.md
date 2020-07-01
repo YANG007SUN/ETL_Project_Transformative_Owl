@@ -5,8 +5,6 @@
 Gather data sources, transform and load into a database.  The data involves housing information from Redfin and crime information for the city of Los Angeles.  We are going to see how they correlate. 
 
 ## Libraries:
-Libraries:
-
 * Pandas
 * numpy
 * sodapy
@@ -24,6 +22,6 @@ Libraries:
 
 * **E**xtract: your original data sources and how the data was formatted (CSV, JSON, pgAdmin 4, etc).
 
-* **T**ransform: what data cleaning or transformation was required.
+* **T**ransform: what data cleaning or transformation was required. SQLPostgres
 
 * **L**oad: the final database, tables/collections, and why this was chosen.
