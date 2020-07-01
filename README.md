@@ -17,7 +17,7 @@ Libraries:
 
 ## Data Sources:
 * Redfin Data (Scrape from redfin website)
-* Crime Rate Data API (https://dev.socrata.com/docs/endpoints.html) 
+* Crime Rate Data API (https://dev.socrata.com/docs/endpoints.html, https://data.lacity.org/A-Safe-City/Crime-Data-from-2010-to-2019/63jg-8b9z ) 
 
 ## Project Report
 
